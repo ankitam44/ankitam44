@@ -11,11 +11,11 @@ Currently at Elli (Volkswagen Group) owning enterprise fleet charging products a
 - Automation pipelines (n8n + Claude API)
 - Tools I've shipped or prototyped with AI coding tools
 
-**GTM agents ([`/agents`](./agents))**
-- [Lead Qualification Agent](./agents/lead-qualifier) — scores target accounts against an ICP rubric and produces AE-ready talking points
-- [Deal Risk & Champion Health Agent](./agents/deal-risk-monitor) — flags stalled renewals/expansions and champion turnover risk from CRM notes
+**GTM agents**
+- [Lead Qualification Agent](https://github.com/ankitam44/gtm-lead-qualifier-agent) — scores target accounts against an ICP rubric and produces AE-ready talking points
+- [Deal Risk & Champion Health Agent](https://github.com/ankitam44/gtm-deal-risk-agent) — flags stalled renewals/expansions and champion turnover risk from CRM notes
 
-Both are Streamlit apps backed by the Claude API with structured outputs. Each README covers the problem, target user, and what's mocked vs. real.
+Both are Streamlit apps backed by the Claude API with structured outputs. Each repo's README covers the problem, target user, and what's mocked vs. real.
 
 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · Berlin, Germany
 
