@@ -4,7 +4,7 @@ I'm Ankita 👾
 PM with 4 years building in EV charging, B2B SaaS and AI-native products.
 I prototype with Claude Code, n8n, and Cursor.
 
-Currently at Elli (Volkswagen Group) owning enterprise fleet charging products across Europe.
+Currently at Elli (Volkswagen Group) building enterprise charging products across Europe.
 
 **What's in this profile**
 - Case studies built as interactive HTML — fraud detection, customer insights, competitive teardowns
